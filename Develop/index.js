@@ -1,5 +1,10 @@
+const inquirer = require("inquirer");
+
+inquirer = require('inquirer');
+
 // array of questions for user
 const questions = [
+    
 
 ];
 
