@@ -1,9 +1,9 @@
 
-  # a;sdklj
+  # readmegenerator
 
 
   ## Description
-  as;dflk
+  a;ldksjf;ldkjsaf;lkjsdaf in the command line
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,15 +15,15 @@
   * [Questions](#questions)
 
   ## Installation 
-  asdfasd
+  a;ldskjfa;dkjs
 
 
   ## Usage
-  fasd
+  a;sdkjf;ladkjsfl;kdsaj new project
 
 
   ## Credits
-  fasd
+  Nate Derenne https://github.com/njderenne
 
 
   ## License
@@ -31,16 +31,16 @@
 
 
   ## Contributing
-  a;ldkjf
+  
 
 
   ## Tests
-  asdflkj
+  Tests were run by adding infomation to the command line prompts
 
 
   ## Questions
-  GitHub Username: [a;sdkfl](https://github.com/a;sdkfl)
+  GitHub Username: [frostyausty](https://github.com/frostyausty)
 
-  If you have any questions, feel free to email me at a;aldks
+  If you have any questions, feel free to email me at austin@hotmail.com
 
   
