@@ -1,32 +1,48 @@
-// function to generate markdown for README
-// module.exports = userAnswers => {
-//   const [title] = userAnswers;
-//   console.log(title);
-
-
-// function generateMarkdown() {
-//   return `# test5
-   
-// `;
-// }
-
-// module.exports = generateMarkdown;
-
-//${userQuestions.title}
-
 module.exports = generateMarkdown => {
-  //console.log(generateMarkdown)
-  return `# ${generateMarkdown.title}
+  return `
+  # ${generateMarkdown.title}
+
 
   ## Description
   ${generateMarkdown.description}
 
   ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+
+  ## Installation 
+  ${generateMarkdown.install}
 
 
-  ##
+  ## Usage
+  ${generateMarkdown.usage}
 
 
-  
+  ## Credits
+  ${generateMarkdown.credit}
+
+
+  ## License
+  ${generateMarkdown.license}
+
+
+  ## Contributing
+  ${generateMarkdown.contribute}
+
+
+  ## Tests
+  ${generateMarkdown.test}
+
+
+  ## Questions
+  GitHub Username: [${generateMarkdown.github}](https://github.com/${generateMarkdown.github})
+
+  If you have any questions, feel free to email me at ${generateMarkdown.useremail}
+
   `
 };
