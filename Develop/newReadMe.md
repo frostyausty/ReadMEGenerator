@@ -1,9 +1,9 @@
 
-  # readmegenerator
+  # ReadMe Generator
 
 
   ## Description
-  a;ldksjf;ldkjsaf;lkjsdaf in the command line
+  Application generates a readme.md file based on input given by the user in the command line
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,32 +15,32 @@
   * [Questions](#questions)
 
   ## Installation 
-  a;ldskjfa;dkjs
+  Download the project files from GitHub, and navigate to the folder in command line with node.js installed and run "node index.js"
 
 
   ## Usage
-  a;sdkjf;ladkjsfl;kdsaj new project
+  This application can be used to create a readme.md file for a new project.
 
 
   ## Credits
-  Nate Derenne https://github.com/njderenne
+  Nate Derenne  https://github.com/njderenne
 
 
   ## License
-  license 1,license 2,license 3
+  license 1,license 2
 
 
   ## Contributing
-  
+  No contribution guidelines at this time. 
 
 
   ## Tests
-  Tests were run by adding infomation to the command line prompts
+  Added information to the prompts in command line and used console.log to gather responses to format the readme. 
 
 
   ## Questions
   GitHub Username: [frostyausty](https://github.com/frostyausty)
 
-  If you have any questions, feel free to email me at austin@hotmail.com
+  If you have any questions, feel free to email me at aprice2@hotmail.com
 
   
